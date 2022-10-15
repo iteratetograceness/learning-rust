@@ -1,0 +1,10 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+edition = "2021"
+
+# `cargo doc --open` = will build documentation provided by all of your dependencies locally 
+# and open it in your browser
+
+[dependencies]
+rand = "0.8.3"
